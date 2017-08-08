@@ -1,0 +1,5 @@
+1,0HIER_NODE,ROOT,,0,E,Root,Root Node,Root of Hierarchy
+2,0HIER_NODE,SUB, ,1,E,Under,Subnode,Subnode of Hierarchy
+3,SMID14,LEAF,,2,,,,
+4,SMID14,2NDLEAF,,1,,,,
+5,0HIER_NODE,SUB,X,4,E,Under,Subnode,Subnode of Hierarchy
